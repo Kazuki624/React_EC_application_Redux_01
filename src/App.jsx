@@ -24,7 +24,7 @@ export default function App() {
   return (
     <>
       <div className='wrapper bg-dark text-white'>
-        <Navbar name="My React Shop"/>
+        <Navbar name="KAZUKI React Shop"/>
         <div className="container mt-5 py-5 px-3 px-md-5">
           <Routes>
             <Route path='/' element={<Home />}/>
